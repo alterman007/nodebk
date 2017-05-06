@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Mac
+*.DS_Store
+
+# Dependency directories
+node_modules
+
+# build
+build
